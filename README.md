@@ -1,13 +1,28 @@
 # Big-mart-sales-prediction
-prediction of sales
+The super mart company with multiple outlets worldwide, aims to predict the expected sales.
 
-# python packages
-1. numpy
-2. pandas
-3. seaborn
-4. Sklearn
 
-# Model building
+# Data Features:
+1. 
 
-1. Linear
-2. Logis
+
+
+
+
+# Python
+1. Pandas
+2. Numpy
+3. Sklearn
+4. Seaborn
+5. Matplotlib.pyplot
+
+
+# Model Building
+
+1. Linear Regression
+2. Decision Tree
+3. Random Forest
+4. Extra Tree Regressor
+5. Bagging Regressor
+6. Gradient Boosting Regressor
+
